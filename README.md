@@ -2,6 +2,7 @@
 Submission Pertama dari course Machine Learning Terapan (Dicoding).
 
 Dibuat dengan tujuan untuk melengkapi Learning Objective dari "Laskar AI 2025".
+
 ---
 
 ## Domain Permasalahan
